@@ -35,7 +35,7 @@ The resolute - we love less, Improve ourselves less, angry more and lonely for a
 
 ### How does Kapachi work and how can it decrease this problem?
 
-Lets say a user got a gifting-message, i.e.  a message with a nice template as I wrote above, threw Kapachi, and he wants to read it. That user wont be able to read that message till he will send a gifting-message ass well, to two other people. As you guessed, that rule is valid to those two people, which means that if the template is good, i.e. make people write an important an honest things to each other, It will be distributed exponentially.
+Lets say a user got in Kapachi app a gifting-message, i.e. a message with a nice template as I wrote above, and he wants to read it. That user wont be able to read that message till he will send a gifting-message ass well, to two other people. As you guessed, that rule is valid to those two people, which means that if the template is good, i.e. make people write an important an honest things to each other, It will be distributed exponentially.
 
 The principle is very simple - Kapachi is the way to make people "pay" for that fantastic value, without detroing it by that.
 
