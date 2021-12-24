@@ -6,6 +6,7 @@
 
 
 
+Hey :)
 I'm happy to introduce my chat app project (Kapachi2) to you.
 I'll start with the explanation of the app idea, and then elaborate about the possible actions that can be done with the current code.
 ---------------------------------- 
