@@ -25,7 +25,7 @@ Here are three examples for such things people are not saying enough::
 - "Sorry for... My intention was to... How can I be better next time?"
 - "It seems to me that when you are doing... it hurts you/others in ... way, and I'm not sure if you are doing it because you are not aware of that, or because there is some good reason to do so despite 'what I mentioned. Do you think I might be right?"
 
-There are many possible reasons for avoiding similar messages. For instance - fear of angry/defensive response, or transmitting neediness, weakness or lack of self confidence. 
+There are many possible reasons for avoiding such kind of messages. For instance - fear of angry/defensive response, or transmitting neediness, weakness or lack of self confidence. 
 
 Non of those reasons is good enough to justify avoidant from giving those huge gifts we can give to each other every day. It is just to easy to not do that, given the fact that when we do choose to say, we risk our image, without receiving an immediate certainly enough reward for that.
 
