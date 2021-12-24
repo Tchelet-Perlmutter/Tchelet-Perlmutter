@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on Kapachi2 project I am working on...
 - 📫 How to reach me tchelet.perlmutter@gmail.com or https://www.linkedin.com/in/tchelet-perlmutter-427a25165/...
 
+
+
 I'm happy to introduce my chat app project (Kapachi2) to you.
 I'll start with the explanation of the app idea, and then elaborate about the possible actions that can be done with the current code.
-
 ---------------------------------- 
 
 ###  The idea:
