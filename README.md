@@ -33,9 +33,15 @@ The resolute - we love less, Improve ourselves less, angry more and lonely for a
 
 ### How does Kapachi work and how can it decrease this problem?
 
-Let's say a user got in Kapachi app a gifting message, i.e. a message with a nice template as I wrote above, and he wants to read it. That user won't be able to read that message till he will send a gifting-message ass well, to two other people. As you guessed, that rule is valid to those two people, which means that if the template is good, i.e. make people write important and honest things to each other, It will be distributed exponentially.
+Let's say a user got in Kapachi app a gifting message, i.e. a message with a nice template as I wrote above, and he wants to read it. That user won't be able to read that message till he will send a gifting-message with the same template ass well, to two other users. As you guessed, that rule is valid to those two people, which means that if the template is good, i.e. make people write important and honest things to each other, It will be distributed exponentially.
 
 The principle is very simple - Kapachi is the way to make people "pay" for that fantastic value, without destroying it by that.
+
+A nice feature: 
+
+Every user will be asked from time to time to rank anonymously the messages he opened, from the most meaningful to the least meaningful. The ranker will get a bonus key. The users that sent the most meaningful messages will get a bonus key ass well. If two or more users ranked the messages from some user as the least meaningful, that user will lose a key. 
+
+In that way, we increase the incentive for writing more vulnerable and meaningful messages
 
 ----------------------------------
 
@@ -74,3 +80,5 @@ The handler creates a new conversation for them automatically
 * Create a permanent password to that new user, that will be sent with the SMS, and will make it easier for him to be rewarded faster.
 
 * Get permission to the user's contacts from Facebook and from his phone so that Kapachi could offer him options for contacts to send messages to
+
+* Notifications
